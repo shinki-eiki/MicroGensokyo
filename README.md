@@ -1,4 +1,11 @@
 # MicroGensokyo
-Firstly unzip the file image.rar.
-You'd better run with Python3,and must install Python Imaging Library.
-To begin the game,open MicroGensokyo.py and run.
+
+需要安装PIL库
+```shell
+pip install pillow
+```
+安装完成后，运行主程序
+```shell
+python MicroGensokyo.py
+```
+游戏即可运行。
