@@ -1,6 +1,6 @@
 # MicroGensokyo
-
-需要安装PIL库
+要求python版本3.8.9及以上。
+需要安装PIL库：
 ```shell
 pip install pillow
 ```
